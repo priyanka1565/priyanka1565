@@ -162,7 +162,7 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawaz8&theme=algolia" alt="shahnawaz8" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1565&theme=algolia" alt="priyanka1565" /></p>
 
 <br>
 <br>
