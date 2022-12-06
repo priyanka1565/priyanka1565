@@ -25,11 +25,16 @@
 ![snake gif](https://github.com/priyanka1565/priyanka1565/blob/output/github-contribution-grid-snake.gif)
  -->
 
-| 📊 Github Stats | 📊 Current Strek  |
-| --- | --- |
-| ![ Atul Krishna GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=priyanka1565&theme=dark)](https://git.io/streak-stats) |
+## 📊 Github Stats
 
 
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/priyanka1565/github-readme-stats"><img alt="priyanka1565's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  </p>
 
 ----
 
