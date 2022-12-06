@@ -161,11 +161,10 @@
 <br/>
 
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1565&theme=algolia" alt="priyanka1565" /></p>
+ 📊 Github Stats | 📊 Current Strek  |
+| --- | --- |
+| ![ Atul Krishna GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=priyanka1565&theme=dark)](https://git.io/streak-stats) |
 
-<br>
-<br>
 
 ----
 
