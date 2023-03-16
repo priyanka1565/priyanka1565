@@ -82,11 +82,9 @@ visit : https://realindiamart.netlify.app/
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sandeep-kumar-murmu-0567181a9/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sandeep.16murmu@gmail.com"><img src="https://img.shields.io/badge/-sandeep.16murmu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-S.K.Murmu-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/sandeep.16murmu/"><img src="https://img.shields.io/badge/-sandeep.16murmu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005318865729"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/priyanka-ingle-05b623231/style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:priyankaingle250@gmail.com"><img src="https://img.shields.io/badge/-priyankaingle250@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 
 </p>
