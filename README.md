@@ -60,20 +60,20 @@ visit : https://smart-point.vercel.app/
   <br/>
   <br/>
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Todo+App;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Hubspot.com;)](https://git.io/typing-svg)
 
-git-repo link : https://github.com/sandeepKumarMurmu/todo
+git-repo link : https://github.com/Guruprasad3n/HubSpot.com---Clone
   <br/>
-visit : https://todo-omega-two.vercel.app/
+visit : https://animated-narwhal-cecc2b.netlify.app/
 <br/>
   <br/>
   <br/>
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Recipe+App;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=IndiaMart.com;)](https://git.io/typing-svg)
 
-git-repo link : https://github.com/sandeepKumarMurmu/food_recipe/tree/main/recipe
+git-repo link : https://github.com/raus376/IndiaMart_Website
   <br/>
-visit : https://recipe-puce.vercel.app/
+visit : https://realindiamart.netlify.app/
 <br/>
 <br/>
 <br/>
