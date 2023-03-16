@@ -41,11 +41,11 @@
 <br/>
   <h1 align="center">My Works and Contributions</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Hubstop;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Apna-Shop;)](https://git.io/typing-svg)
 
-git-repo link : [https://github.com/sandeepKumarMurmu/shoppify](https://github.com/sandeepKumarMurmu/shoppify)
+git-repo link : [https://github.com/priyanka1565/react-project/tree/main/ecommerce-application](https://github.com/priyanka1565/react-project/tree/main/ecommerce-application)
     <br/>
-visit : [https://apna-shopping-app.vercel.app/](https://apna-shopping-app.vercel.app/)
+visit : [https://ecommerce-application-omega-mocha.vercel.app/home](https://ecommerce-application-omega-mocha.vercel.app/home)
 <br/>
 <br/>
 <br/>
