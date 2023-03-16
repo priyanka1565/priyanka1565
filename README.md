@@ -51,11 +51,11 @@ visit : [https://ecommerce-application-omega-mocha.vercel.app/home](https://ecom
 <br/>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=bewkoof.com;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=YOOX.COM;)](https://git.io/typing-svg)
 
-git-repo link : https://github.com/reeteshin/bewakoof
+git-repo link : https://github.com/shubhojeet1/cut-price-5327
 <br/>
-visit : https://bewakoof-tawny.vercel.app/
+visit : https://smart-point.vercel.app/
 <br/>
   <br/>
   <br/>
