@@ -82,7 +82,7 @@ visit : https://realindiamart.netlify.app/
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/priyanka-ingle-05b623231/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/priyanka-ingle-05b623231/"><img src="https://img.shields.io/badge/-Priyanka%20Ingle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:priyankaingle250@gmail.com"><img src="https://img.shields.io/badge/-priyankaingle250@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
