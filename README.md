@@ -1,174 +1,92 @@
-<h1 align="center">Hi , I'm Priyanka Ingle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## 👋 &nbsp;Hey there! I'm Priyanka Ingle [![GitHub followers](https://github.com/priyanka1565?tab=followers)](https://github.com/priyanka1565?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=An+Enthusiastic+!+!+!;An+Aspiring+!+!+!;and+A+work+oriented;Full+stack+Web+Developer...;And+a+proud+Indian;)](https://git.io/typing-svg)
+
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I completed my learning from [Masai School](https://www.masaischool.com/) on full-stack web-development .\
+🌱 &nbsp;Still I'm on track for learning more about web-development, UI-design, and Back-end.\
+✍️ &nbsp;In my free time, I spend quality time with family and friends.\
+✉️ &nbsp;You can shoot me an email at priyankaingle250@gmail.com! I'll reply as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/13udb-5mGQFagtdgAykN53TY7a-OqrvOB/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Expressjs](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logoColor=092E20)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=learning+Full+Stack+Web+Development+at+Masai+School;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=1000&height=100"></a>
-</p>
-
-
-<br>
-
-<p align="center"> 
-	<img src="http://hits.dwyl.com/shahnawaz8/ABSphreak.svg">
-
-</p>
-
-
-## :sassy_man:  About me
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `LeetCode`
-- :student: I’m currently learning: `Full Stack Web Development` at `Masai School`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13udb-5mGQFagtdgAykN53TY7a-OqrvOB/view?usp=sharing) And [MY Portfolio](https://priyanka-ingle1565-portfolio.netlify.app/).
-- :nerd_face: Always `learning new things`
-
-<br>
-<!-- <h2>Contribution</h2>
-
-![snake gif](https://github.com/priyanka1565/priyanka1565/blob/output/github-contribution-grid-snake.gif)
- -->
-
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/priyanka1565/github-readme-stats"><img alt="priyanka1565's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  </p>
-
-----
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:priyankaingle250@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/priyanka1565"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/9146775662"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/priyanka-ingle-05b623231/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/priyanka356"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
-<!-- 	<a href="https://www.instagram.com/priyanka.offical25/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
-</p>
-
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-	  &emsp;
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2334A853.svg?style=plastic&logo=react&logoColor=cyan"></a>
-  &emsp;
-
-	
-	
-	
-
-</p>
-
- ### 👉 Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-	 &emsp;
-    <a href="#"><img alt="ChromeDevTool" src="https://img.shields.io/badge/ChromeDevTool-%232C2255.svg?&style=plastic&logo=chromedevtool%20ide&logoColor=white" /></a>
-	&emsp;
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/Npm-%2343B02A.svg?&style=plastic&logo=npm&logoColor=white"></a>
-</p>
-
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-	 &emsp;
-    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-000000?style=plastic&logo=jupyter%20notebook&logoColor=white"></a>
-	 &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%235586A4.svg?style=plastic&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-	 &emsp;
-    <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/Codesandbox-%23181717.svg?&style=plastic&logo=codesandbox&logoColor=white" /></a>
- 
-</p>
-
-<!--  ### 👉 Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p> -->
-
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanka1565&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyanka1565&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <br/>
-
-| 📊 Github Status | 📊 Current Strek  |
-| --- | --- |
-| ![ Atul Krishna GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=priyanka1565&theme=dark)](https://git.io/streak-stats) |
-
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/priyanka1565"><img alt="priyanka1565's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanka1565&custom_title=priyanka1565's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
 <br/>
+  <h1 align="center">My Works and Contributions</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Shoppify;)](https://git.io/typing-svg)
+
+git-repo link : [https://github.com/sandeepKumarMurmu/shoppify](https://github.com/sandeepKumarMurmu/shoppify)
+    <br/>
+visit : [https://apna-shopping-app.vercel.app/](https://apna-shopping-app.vercel.app/)
+<br/>
+<br/>
+<br/>
+
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=bewkoof.com;)](https://git.io/typing-svg)
+
+git-repo link : https://github.com/reeteshin/bewakoof
+<br/>
+visit : https://bewakoof-tawny.vercel.app/
+<br/>
+  <br/>
+  <br/>
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Todo+App;)](https://git.io/typing-svg)
+
+git-repo link : https://github.com/sandeepKumarMurmu/todo
+  <br/>
+visit : https://todo-omega-two.vercel.app/
+<br/>
+  <br/>
+  <br/>
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Recipe+App;)](https://git.io/typing-svg)
+
+git-repo link : https://github.com/sandeepKumarMurmu/food_recipe/tree/main/recipe
+  <br/>
+visit : https://recipe-puce.vercel.app/
+<br/>
+<br/>
+<br/>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sandeep-kumar-murmu-0567181a9/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sandeep.16murmu@gmail.com"><img src="https://img.shields.io/badge/-sandeep.16murmu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-S.K.Murmu-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/sandeep.16murmu/"><img src="https://img.shields.io/badge/-sandeep.16murmu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005318865729"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+
+</p>
