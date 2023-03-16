@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Priyanka Ingle [![GitHub followers](https://github.com/priyanka1565?tab=followers)](https://github.com/priyanka1565?tab=followers)
+## 👋 &nbsp;Hey there! I'm Priyanka Ingle [![GitHub followers](https://img.shields.io/github/followers/priyanka1565.svg?)](https://github.com/priyanka1565?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=An+Enthusiastic+!+!+!;An+Aspiring+!+!+!;and+A+work+oriented;Full+stack+Web+Developer...;And+a+proud+Indian;)](https://git.io/typing-svg)
 
