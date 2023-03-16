@@ -11,8 +11,11 @@
 ✍️ &nbsp;In my free time, I spend quality time with family and friends.\
 ✉️ &nbsp;You can shoot me an email at priyankaingle250@gmail.com! I'll reply as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/13udb-5mGQFagtdgAykN53TY7a-OqrvOB/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+| 📊 Github Status | 📊 Current Strek  |
+| --- | --- |
+| ![ Atul Krishna GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=priyanka1565&theme=dark)](https://git.io/streak-stats) |
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
