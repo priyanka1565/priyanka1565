@@ -13,7 +13,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/13udb-5mGQFagtdgAykN53TY7a-OqrvOB/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 | 📊 Github Status | 📊 Current Strek  |
 | --- | --- |
-| ![ Atul Krishna GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=priyanka1565&theme=dark)](https://git.io/streak-stats) |
+| ![ Priyanka Ingle GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1565&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=priyanka1565&theme=dark)](https://git.io/streak-stats) |
 
 
 
