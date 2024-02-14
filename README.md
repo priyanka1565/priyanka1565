@@ -36,23 +36,7 @@
 <br/>
 <br/>
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Hubspot.com;)](https://git.io/typing-svg)
-
-git-repo link : https://github.com/Guruprasad3n/HubSpot.com---Clone
-  <br/>
-visit : https://animated-narwhal-cecc2b.netlify.app/
-<br/>
-  <br/>
-  <br/>
-  
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=IndiaMart.com;)](https://git.io/typing-svg)
-
-git-repo link : https://github.com/raus376/IndiaMart_Website
-  <br/>
-visit : https://realindiamart.netlify.app/
-<br/>
-<br/>
-<br/>
+ 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
