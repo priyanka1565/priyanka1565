@@ -35,26 +35,6 @@
 
 <br/>
 <br/>
-  <h1 align="center">My Works and Contributions</h1>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Apna-Shop;)](https://git.io/typing-svg)
-
-git-repo link : [https://github.com/priyanka1565/react-project/tree/main/ecommerce-application](https://github.com/priyanka1565/react-project/tree/main/ecommerce-application)
-    <br/>
-visit : [https://ecommerce-application-omega-mocha.vercel.app/home](https://ecommerce-application-omega-mocha.vercel.app/home)
-<br/>
-<br/>
-<br/>
-
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=YOOX.COM;)](https://git.io/typing-svg)
-
-git-repo link : https://github.com/shubhojeet1/cut-price-5327
-<br/>
-visit : https://smart-point.vercel.app/
-<br/>
-  <br/>
-  <br/>
   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Hubspot.com;)](https://git.io/typing-svg)
 
